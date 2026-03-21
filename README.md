@@ -1,4 +1,4 @@
-# Windows 7 Update
+# 🔄 Windows 7 Update
 <br>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -12,5 +12,9 @@
 6. `C:\Windows\System32\catroot2` > Borrar carpeta  
 7. Cifrado > Automático > Reiniciar  
 8. [Catálogo Microsoft Update KB3138612](https://www.catalog.update.microsoft.com/Search.aspx?q=KB3138612)  
-9. Reiniciar equipo  
+9. Reiniciar equipo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+> ⚠️ Recomendación: Hacer backup antes de borrar carpetas de sistema  
+> 💡 [Soporte adicional:](https://support.microsoft.com/windows-update)
