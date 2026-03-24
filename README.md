@@ -21,4 +21,6 @@
 
 <br>
 
-<img src="./logo/logo.JPG" alt="MasofieDeploy" width="80"/>
+<p align="right">
+  <img src="./logo/logo.JPG" alt="MasofieDeploy" width="80"/>
+</p>
