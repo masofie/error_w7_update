@@ -18,3 +18,6 @@
 
 > ⚠️ Recomendación: Hacer backup antes de borrar carpetas de sistema  
 > 💡 [Soporte adicional:](https://support.microsoft.com/windows-update)
+
+
+<img src="./logo/logo.JPG" alt="MasofieDeploy" width="80"/>
